@@ -53,5 +53,5 @@ const segundoNumero1= 5;
 console.log(primeiroNumero1 === segundoNumero1); //comparação
 
 const text1 = "Alura";
-const text2 = "alura";
+const text2 = "13";
 console.log(text1 === text2);

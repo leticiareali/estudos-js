@@ -53,5 +53,11 @@ const segundoNumero1= 5;
 console.log(primeiroNumero1 === segundoNumero1); //comparação
 
 const text1 = "Alura";
-const text2 = "13";
+const text2 = "alura";
 console.log(text1 === text2);
+
+// git init
+// git add . 
+// git status
+// git commit -m "ex aula1"
+// git push origin master //tentar colocar o main
